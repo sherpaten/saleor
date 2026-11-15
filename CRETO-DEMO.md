@@ -24,6 +24,7 @@ The root LICENSE is BSD 3-Clause. Preserve the copyright notice, conditions, and
 
 ## Status
 - [x] Demo scope documented.
+- [x] Creto-branded static concept prototype added in `creto-demo/index.html` with fictional sample content and lightweight interactions.
 - [ ] Verify selected release and all storefront/dashboard dependencies and licences.
 - [ ] Scaffold a Creto-branded storefront and sample catalogue.
 - [ ] Configure isolated Saleor services and test order flow.
